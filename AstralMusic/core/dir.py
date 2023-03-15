@@ -6,7 +6,7 @@ from ..logging import LOGGER
 
 
 def dirr():
-    if "assets" not in listdir("AnonX"):
+    if "assets" not in listdir("AstralMusic"):
         LOGGER(__name__).warning(
             f"Assets Folder not Found. Please clone repository again."
         )
