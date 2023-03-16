@@ -71,4 +71,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 #     CREDITS     #
 
-# Thanks To TeamAviax(https://github.com/TeamAviax) To Giving His Bot And Idea .
+# Thanks To [Fallen Association](https://t.me/FallenAssociation) For His Repo .
